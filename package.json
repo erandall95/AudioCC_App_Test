@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "asciichart": "^1.5.25"
+  },
+  "name": "audiocc_app_test",
+  "description": "A term calculator that can handle (), *, /, +, and -",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "scripts": {
+    "calc": "node ./commandLineCalc.js",
+    "algo": "node ./lastOrderedNum.js",
+    "plot": "node ./graphicCalc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
